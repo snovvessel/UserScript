@@ -39,39 +39,39 @@
         ['https://gh.h233.eu.org/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@X.I.U/XIU2] 提供'],
         //['https://gh.xiu2.us.kg/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@X.I.U/XIU2] 提供'],
         //['https://gh.api.99988866.xyz/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [hunshcn/gh-proxy] 提供'], // 官方演示站用的人太多了
-        ['https://gh.ddlc.top/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@mtr-static-official] 提供'],
+        //['https://gh.ddlc.top/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@mtr-static-official] 提供'],
         //['https://gh2.yanqishui.work/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@HongjieCN] 提供'], // 错误
         //['https://dl.ghpig.top/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [feizhuqwq.com] 提供'], // ERR_SSL_VERSION_OR_CIPHER_MISMATCH
         //['https://gh.flyinbug.top/gh/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [Mintimate] 提供'], // 错误
-        ['https://slink.ltd/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [知了小站] 提供'],
+        //['https://slink.ltd/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [知了小站] 提供'],
         //['https://gh.con.sh/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [gh.con.sh] 提供'], // Suspent due to abuse report.
         //['https://ghps.cc/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [ghps.cc] 提供'], // 提示 blocked
         ['https://gh-proxy.com/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [gh-proxy.com] 提供'],
-        ['https://cors.isteed.cc/github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@Lufs\'s] 提供'],
-        ['https://hub.gitmirror.com/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [GitMirror] 提供'],
-        ['https://down.sciproxy.com/github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [sciproxy.com] 提供'],
+        //['https://cors.isteed.cc/github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@Lufs\'s] 提供'],
+        //['https://hub.gitmirror.com/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [GitMirror] 提供'],
+        //['https://down.sciproxy.com/github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [sciproxy.com] 提供'],
         ['https://ghproxy.cc/https://github.com', '美国', '[美国 洛杉矶] - 该公益加速源由 [@yionchilau] 提供'],
         ['https://cf.ghproxy.cc/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@yionchilau] 提供'],
         ['https://www.ghproxy.cc/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@yionchilau] 提供'],
         ['https://ghproxy.cn/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@yionchilau] 提供'],
         ['https://www.ghproxy.cn/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@yionchilau] 提供'],
-        ['https://github.site', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@yionchilau] 提供'],
-        ['https://github.store', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@yionchilau] 提供'],
+        //['https://github.site', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@yionchilau] 提供'],
+        //['https://github.store', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@yionchilau] 提供'],
         //['https://gh.jiasu.in/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [@0-RTT] 提供'], // 404
         ['https://github.boki.moe/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [blog.boki.moe] 提供'],
         ['https://github.moeyy.xyz/https://github.com', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [moeyy.cn] 提供'],
         ['https://hub.whtrys.space', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [FastGit 群组成员] 提供'],
         ['https://dgithub.xyz', '美国', '[美国 西雅图] - 该公益加速源由 [dgithub.xyz] 提供'],
-        ['https://gh-proxy.ygxz.in/https://github.com', '美国', '[美国 洛杉矶] - 该公益加速源由 [@一个小站 www.ygxz.in] 提供'],
-        ['https://download.ixnic.net', '美国', '[美国 洛杉矶] - 该公益加速源由 [@黃埔興國] 提供'],
+        //['https://gh-proxy.ygxz.in/https://github.com', '美国', '[美国 洛杉矶] - 该公益加速源由 [@一个小站 www.ygxz.in] 提供'],
+        //['https://download.ixnic.net', '美国', '[美国 洛杉矶] - 该公益加速源由 [@黃埔興國] 提供'],
     //], download_url = [ // 为了缓解非美国公益节点压力（考虑到很多人无视前面随机的美国节点），干脆也将其加入随机
         ['https://ghproxy.net/https://github.com', '英国', '[英国伦敦] - 该公益加速源由 [ghproxy.net] 提供&#10;&#10;提示：希望大家尽量多使用美国节点（每次随机 负载均衡），&#10;避免流量都集中到亚洲公益节点，减少成本压力，公益才能更持久~'],
         ['https://ghgo.xyz/https://github.com', '其他', '[日本、韩国、新加坡、美国、德国等]（CDN 不固定） - 该公益加速源由 [ghproxy.link] 提供&#10;&#10;提示：希望大家尽量多使用美国节点（每次随机 负载均衡），&#10;避免流量都集中到亚洲公益节点，减少成本压力，公益才能更持久~'],
         ['https://wget.la/https://github.com', '其他', '[中国香港、中国台湾、日本、美国等]（CDN 不固定） - 该公益加速源由 [ucdn.me] 提供&#10;&#10;提示：希望大家尽量多使用美国节点（每次随机 负载均衡），&#10;避免流量都集中到亚洲公益节点，减少成本压力，公益才能更持久~'],
-        ['https://kkgithub.com', '其他', '[中国香港、日本、韩国、新加坡等] - 该公益加速源由 [help.kkgithub.com] 提供&#10;&#10;提示：希望大家尽量多使用美国节点（每次随机 负载均衡），&#10;避免流量都集中到亚洲公益节点，减少成本压力，公益才能更持久~'],
+        //['https://kkgithub.com', '其他', '[中国香港、日本、韩国、新加坡等] - 该公益加速源由 [help.kkgithub.com] 提供&#10;&#10;提示：希望大家尽量多使用美国节点（每次随机 负载均衡），&#10;避免流量都集中到亚洲公益节点，减少成本压力，公益才能更持久~'],
     ], clone_url = [
         ['https://gitclone.com', '国内', '[中国 国内] - 该公益加速源由 [GitClone] 提供&#10;&#10; - 缓存：有&#10; - 首次比较慢，缓存后较快'],
-        ['https://kkgithub.com', '香港', '[中国香港、日本、新加坡等] - 该公益加速源由 [help.kkgithub.com] 提供'],
+        //['https://kkgithub.com', '香港', '[中国香港、日本、新加坡等] - 该公益加速源由 [help.kkgithub.com] 提供'],
         //['https://gitdl.cn/https://github.com', '香港', '[中国香港] - 该公益加速源由 [gitdl] 提供'], // 输出文件错误
         ['https://wget.la/https://github.com', '香港', '[中国香港、中国台湾、日本、美国等]（CDN 不固定） - 该公益加速源由 [ucdn.me] 提供'],
         ['https://ghgo.xyz/https://github.com', '韩国', '[日本、韩国、新加坡、美国、德国等]（CDN 不固定） - 该公益加速源由 [ghproxy] 提供'],
@@ -101,7 +101,7 @@
         //['git@git.zhlh6.cn:', '美国', '[美国 洛杉矶]'] // 挂了
     ], raw_url = [
         ['https://raw.githubusercontent.com', 'Github 原生', '[日本 东京]&#10;&#10; - 缓存：无（或很短）'],
-        ['https://raw.kkgithub.com', '香港 1', '[中国香港、日本、新加坡等] - 该公益加速源由 [help.kkgithub.com] 提供&#10;&#10; - 缓存：有'],
+        //['https://raw.kkgithub.com', '香港 1', '[中国香港、日本、新加坡等] - 该公益加速源由 [help.kkgithub.com] 提供&#10;&#10; - 缓存：有'],
         //['https://jsd.proxy.aks.moe/gh', '香港 2', '[中国 香港] - 该公益加速源由 [cdn.akass.cn] 提供'], // 证书错误
         ['https://wget.la/https://raw.githubusercontent.com', '香港 2', '[中国香港、中国台湾、日本、美国等]（CDN 不固定） - 该公益加速源由 [ucdn.me] 提供&#10;&#10; - 缓存：无（或很短）'],
         //['https://cdn.wget.la/gh', '香港 2', '[中国香港、中国台湾、日本、美国等]（CDN 不固定） - 该公益加速源由 [ucdn.me] 提供&#10;&#10; - 缓存：无（或很短）'],
